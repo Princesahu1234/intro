@@ -1025,6 +1025,7 @@ select.form-control {
 .profile-placeholder {
   width: 0px;
   height: 0px; 
+  margin-left: 20px;
   background: linear-gradient(135deg, var(--color-teal-400), var(--color-teal-600));
   border-radius: 50%;
   display: flex;
@@ -1049,7 +1050,7 @@ select.form-control {
 .profile-ring {
   position: absolute;
   top: -10px;
-  left: 20px;
+  left: -10px;
   right: -10px;
   bottom: -10px;
   border: 0px solid rgba(var(--color-teal-300-rgb), 0.3);
