@@ -1028,7 +1028,7 @@ select.form-control {
   background: linear-gradient(135deg, var(--color-teal-400), var(--color-teal-600));
   border-radius: 50%;
   display: flex;
-  align-items: center;
+  align-items: right;
   justify-content: center;
   position: relative;
   animation: float 6s ease-in-out infinite;
