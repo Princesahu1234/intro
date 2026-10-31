@@ -1025,7 +1025,8 @@ select.form-control {
 .profile-placeholder {
   width: 0px;
   height: 0px; 
-  margin-left: 20px;
+  margin-left: 100px;
+  
   background: linear-gradient(135deg, var(--color-teal-400), var(--color-teal-600));
   border-radius: 50%;
   display: flex;
